@@ -7,5 +7,7 @@ Integrantes:
 Adriel de Oliveira, Matheus Fraga, Lucas Vizeu, João Vitor da Cunha Silveira e Augusto Feltrin
 
 <hr>
+<h5>Commit do Lucas</h5>
 <h5>Commit do Matheus</h5>
 <h5>Commit do Augusto</h5>
+<hr>

@@ -7,8 +7,3 @@ Integrantes:
 Adriel de Oliveira, Matheus Fraga, Lucas Vizeu, João Vitor e Augusto Feltrin
 
 <hr>
-<h5>Prontos pra trabalhar</h5>
-
-<hr>
-Comit de Teste do Lucas 
-<hr>

@@ -8,3 +8,4 @@ Adriel de Oliveira, Matheus Fraga, Lucas Vizeu, João Vitor da Cunha Silveira e 
 
 <hr>
 <h5>Commit do Matheus</h5>
+<h5>Commit do Augusto</h5>

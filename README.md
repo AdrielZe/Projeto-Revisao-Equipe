@@ -7,3 +7,5 @@ Integrantes:
 Adriel de Oliveira, Matheus Fraga, Lucas Vizeu, João Vitor e Augusto Feltrin
 
 <hr>
+
+<h5> Commit Fraga </h5>
